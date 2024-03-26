@@ -1,0 +1,7 @@
+{
+  "name": "cs-yarn4-test",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
